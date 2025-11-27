@@ -23,7 +23,7 @@ export default function DashboardPage() {
             {messages.nav.home}
           </h1>
           <div className="flex items-center gap-3">
-            <GithubLink url="https://github.com/yearsuns/gensyn-nodes" />
+            <GithubLink url="https://github.com/yearsuns/gensyn-node-dashboard" />
             <LanguageSwitcher />
           </div>
         </div>
